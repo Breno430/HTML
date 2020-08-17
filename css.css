@@ -1,0 +1,25 @@
+body{
+    background: #ccc;
+}
+
+img{
+    width: 50%; 
+    height: 500px;
+    margin-left: 470px;
+}
+    
+
+h1{
+    text-align: center;
+}
+#teste{
+    font-size: 16px;
+}
+p{
+    text-align: center;
+
+}
+
+em strong{
+    color: red;
+}
